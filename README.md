@@ -387,3 +387,20 @@ Ví dụ tập huấn luyện có 32.000 dữ liệu. Nếu Batch size = 32 (m�
 
 :pushpin: ML_basic_stepbystep.ipynb
 
+---
+## Setting Up Your Machine Learning for Cybersecurity Arsenal
+
+---
+## Machine Learning based Malware Detection
+
+---
+## Advanced Malware Detection
+
+----
+## Phishing Website Detection using Machine Learning
+
+---
+## Network Anomaly Detection Using LSTM Based Autoencoder
+
+---
+## 
