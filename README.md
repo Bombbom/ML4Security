@@ -162,11 +162,6 @@ Training Data, https://ai.googleblog.com/2017/04/federated-learningcollaborative
 
 
 ---
-## 1.8. Machine Learning in Python: Step-By-Step Tutorial
-
-:pushpin: ML_basic_stepbystep.ipynb
-
----
 ## 1.9. Hồi quy tuyến tính: Linear regression 
 > Đây là một thuật toán Supervised learning có tên Linear Regression (Hồi Quy Tuyến Tính)
 
@@ -371,5 +366,9 @@ Ví dụ tập huấn luyện có 32.000 dữ liệu. Nếu Batch size = 32 (m�
 ------
 # Practices
 
+
 ---
-## 
+## Machine Learning in Python: Step-By-Step Tutorial
+
+:pushpin: ML_basic_stepbystep.ipynb
+
