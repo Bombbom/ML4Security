@@ -42,6 +42,10 @@
 
 - https://www.youtube.com/watch?v=jc1wo_8VA1w&list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_
 
+- https://nttuan8.com/gioi-thieu-ve-deep-learning/
+
+- https://huggingface.co/
+
 
 <!-- 1. Your First Machine Learning Project in Python Step-By-Step,
 https://machinelearningmastery.com/machine-learning-in-python-step-bystep/
@@ -102,7 +106,8 @@ Training Data, https://ai.googleblog.com/2017/04/federated-learningcollaborative
 - sklearn.datasets: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
 - mnist dataset
 - ethereum smart contract dataset
-
+- ember dataset
+- https://huggingface.co/docs/datasets/index
 
 ----
 ## 1.5. Machine learning cơ bản
@@ -302,6 +307,12 @@ Training Data, https://ai.googleblog.com/2017/04/federated-learningcollaborative
 > Deep learning được bắt nguồn từ thuật toán Neural network, chỉ là một ngành nhỏ của machine learning nhưng nó giống như con gà để trứng vàng vậy.
 
 ![image](https://user-images.githubusercontent.com/108725538/204594285-245f722b-835a-4fb7-b590-9ff7972e3a31.png)
+
+- Hồi qui tuyến tính
+- Lập trình hồi qui tuyến tính
+- Hồi qui Softmax 
+
+
 
 ---
 ## 1.18. Perceptron Learning Algorithm
