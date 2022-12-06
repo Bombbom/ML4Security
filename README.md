@@ -60,6 +60,21 @@ Training Data, https://ai.googleblog.com/2017/04/federated-learningcollaborative
 
 :bookmark: Book
 
+- Machine Learning and Security Protecting Systems with Data and Algorithms
+![image](https://user-images.githubusercontent.com/108725538/205922067-4922d2cc-a028-41a2-b18b-7b9af473f703.png)
+
+- Hands-On Artificial Intelligence for Cybersecurity by Alessandro Parisi
+![image](https://user-images.githubusercontent.com/108725538/205922232-35398603-6e10-4984-9dd2-97fe2ad04235.png)
+
+- Machine Learning for Cybersecurity Cookbook
+![image](https://user-images.githubusercontent.com/108725538/205922327-b0e3221a-43b4-49da-a58d-1a541a88320f.png)
+
+- MalwareDataScience
+![image](https://user-images.githubusercontent.com/108725538/205922481-feac8b97-879a-4763-87a0-4e212d8c936b.png)
+
+- Dive into Deep Learning
+![image](https://user-images.githubusercontent.com/108725538/205922819-5af41836-0059-40cd-a40c-3702d44561c0.png)
+
 
 ---
 ## 1.2. Glossory
