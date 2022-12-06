@@ -25,6 +25,9 @@
   - [1.22. Anomaly Detection](#122-anomaly-detection)
   - [1.23. Machine learning-based Malware Detection](#123-machine-learning-based-malware-detection)
 
+----
+## Introduction
+
 
 ---
 ## 1.1. Reference 
@@ -82,6 +85,9 @@ Training Data, https://ai.googleblog.com/2017/04/federated-learningcollaborative
 ---
 ## 1.4. Dataset
 - sklearn.datasets: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
+- mnist dataset
+- ethereum smart contract dataset
+
 
 ----
 ## 1.5. Machine learning cơ bản
@@ -129,7 +135,11 @@ Training Data, https://ai.googleblog.com/2017/04/federated-learningcollaborative
 
 
 ---
-## 1.6. Numpy. Pandas, mathplotlib
+## 1.6. Numpy. Pandas, mathplotlib, sklearn, tensorflow, keras, ....
+
+- https://pandas.pydata.org/docs/
+- https://numpy.org/doc/stable/
+- https://matplotlib.org/stable/index.html
 
 ---
 ## 1.7. Data Crawling and pre-processing
@@ -355,3 +365,11 @@ Ví dụ tập huấn luyện có 32.000 dữ liệu. Nếu Batch size = 32 (m�
 
 ----
 ## 1.23. Machine learning-based Malware Detection
+
+
+------
+------
+# Practices
+
+---
+## 
