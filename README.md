@@ -382,6 +382,48 @@ Ví dụ tập huấn luyện có 32.000 dữ liệu. Nếu Batch size = 32 (m�
 
 
 ---
+## Attention Is All You Need 
+
+- Encoder: Là phrase chuyển input thành những features learning có khả năng học tập các task. Đối với model Neural Network, Encoder là các hidden layer. Đối với model CNN, Encoder là chuỗi các layers Convolutional + Maxpooling. **Model RNN quá trình Encoder chính là các layers Embedding và Recurrent Neral Network**.
+- Decoder: Đầu ra của encoder chính là đầu vào của các Decoder. Phrase này nhằm mục đích tìm ra phân phối xác xuất từ các features learning ở Encoder từ đó xác định đâu là nhãn của đầu ra. Kết quả có thể là một nhãn đối với các model phân loại hoặc một chuỗi các nhãn theo tứ tự thời gian đối với model seq2seq.
+
+- seq2seq
+  - Mô hình seq2seq là mô hình chuỗi nên có thứ tự về thời gian. 
+  
+![image](https://user-images.githubusercontent.com/108725538/207364000-f5b445bc-2ae6-4599-bda2-c101d63281ef.png)
+
+![image](https://user-images.githubusercontent.com/108725538/207364030-172b91b4-f48a-4936-ab5b-5b68e6fb77c3.png)
+
+- attention scores 
+- Transformer và Seq2Seq model
+  - Transformer hoàn toàn khác so với các kiến trúc RNN trước đây, mặc dù cả 2 đều thuộc lớp model seq2seq nhằm chuyển 1 câu văn input ở ngôn ngữ A sang 1 câu văn output ở ngôn ngữ B. Quá trình biến đổi (transforming) được dựa trên 2 phần encoder và decoder.
+
+- Attention mechanism:
+  - Scale dot prodction attention
+  - Multi-head Attention
+  - Quá trình Encoder và decoder
+
+
+----
+## Transformer
+![image](https://user-images.githubusercontent.com/108725538/207365678-f0ce5f2a-a3f7-41c2-9650-4334a20becdf.png)
+
+- Nhiệm vụ của Encoder:
+  - Học mối tương quan giữa mỗi từ trong câu với các từ còn lại (self attention)
+  - Bổ sung mối quan hệ này vào Embedding của từng từ đầu
+  - Encoder bảo gồm
+    - 6 layer giống nhau, mỗi layer bao gồm 2 phần nhỏ
+      - Multi-Headed Attention
+      - Position-wise fully connected feed-forward network 
+
+- Tying Weights in Transformer 
+- Positional encodings 
+
+
+---
+## BERT model
+
+---
 ## 1.22. Anomaly Detection 
 
 ----
